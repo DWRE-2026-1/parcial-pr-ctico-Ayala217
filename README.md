@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/vsAsD-E3)
 # Parcial Desarrollo Web con ReactJS: Ingeniería de Prompts y Maquetación
 
 ## Contexto
@@ -6,6 +7,10 @@ Como desarrollador frontend, a menudo recibirás diseños que debes prototipar r
 ## El Reto
 Observa la siguiente imagen que representa un componente de interfaz de usuario:
 <img width="504" height="376" alt="image" src="https://github.com/user-attachments/assets/74db782e-bac6-49c0-9ca2-04b3802017f8" />
+
+## Link de la página
+
+https://dwre-2026-1.github.io/parcial-pr-ctico-Ayala217/
 
 
 
