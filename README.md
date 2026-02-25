@@ -8,6 +8,10 @@ Como desarrollador frontend, a menudo recibirás diseños que debes prototipar r
 Observa la siguiente imagen que representa un componente de interfaz de usuario:
 <img width="504" height="376" alt="image" src="https://github.com/user-attachments/assets/74db782e-bac6-49c0-9ca2-04b3802017f8" />
 
+## Link de la página
+
+https://dwre-2026-1.github.io/parcial-pr-ctico-Ayala217/
+
 
 
 ### Instrucciones
