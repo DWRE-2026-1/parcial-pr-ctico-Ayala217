@@ -2,7 +2,7 @@
 
 ### IA utilizada: Grok
 
-Necesito que generes el archivo index.html utilizando HTML con una estructura semántica correcta para un componente que debe ocupar el 100% del viewport (100vw y 100vh). Incluye la configuración base de un documento HTML y establece correctamente los parámetros del viewport para garantizar un diseño responsive y una correcta adaptación al tamaño del dispositivo. Además, debe "linkear" un archivo  llamado "styles.css". No quiero estilos inline ni etiquetas <style>, únicamente la estructura. Utiliza etiquetas semánticas apropiadas como <main> para el contenedor principal que representará toda la pantalla. Dentro de este contenedor deben existir 5 elementos repetidos que funcionarán como bloques visuales, cada uno con clases preparadas para aplicar posteriormente un layout con CSS Grid.
+Necesito que generes el archivo index.html utilizando HTML con una estructura semántica correcta para un componente que debe ocupar el 100% del viewport (100vw y 100vh). Incluye la configuración base de un documento HTML y establece correctamente los parámetros del viewport para garantizar un diseño responsive y una correcta adaptación al tamaño del dispositivo. Además, debe "linkear" un archivo  llamado "styles.css". No quiero estilos inline ni etiquetas <style>, únicamente la estructura. Dentro de este contenedor deben existir 5 elementos repetidos que funcionarán como bloques visuales, cada uno con clases preparadas para aplicar posteriormente un layout con CSS Grid.
 
 ## Segundo Prompt
 
